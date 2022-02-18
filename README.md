@@ -1,2 +1,2 @@
 # ti-spine-AasxPluginManifestViewer
-Plugin for AASX Package Explorer
+Plugin for the AASX Package Explorer.
